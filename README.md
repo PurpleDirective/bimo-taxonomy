@@ -43,4 +43,4 @@ This taxonomy is built from primary FDA sources where directly accessible, with 
 
 ---
 
-*Purple Directive LLC — not affiliated with, endorsed by, or representative of any employer or institution. Service offered in personal, independent capacity.*
+*Purple Directive — not affiliated with, endorsed by, or representative of any employer or institution. Service offered in personal, independent capacity.*
